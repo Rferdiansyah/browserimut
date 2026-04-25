@@ -1,4 +1,4 @@
-package com.velocity.browser
+package com.browserimut
 
 import android.os.Bundle
 import android.view.KeyEvent

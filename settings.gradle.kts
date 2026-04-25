@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "VelocityBrowser"
+rootProject.name = "BROWSERimut"
 include(":app")

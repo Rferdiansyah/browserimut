@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.velocity.browser"
+    namespace = "com.browserimut"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.velocity.browser"
+        applicationId = "com.browserimut"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
